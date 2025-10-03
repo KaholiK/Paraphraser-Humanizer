@@ -1,4 +1,8 @@
 {
   "files": [],
-  "references": [{ "path": "./packages/shared" }, { "path": "./packages/metrics" }]
+  "references": [
+    { "path": "./packages/shared" },
+    { "path": "./packages/metrics" },
+    { "path": "./packages/llm" }
+  ]
 }
